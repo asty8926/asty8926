@@ -7,9 +7,10 @@ I'm also very interested about tools that ease and improve life as a whole, whet
 I either **hunt** such tools or **make them myself**. Some utility tools can be found in my **[Repositories Section](https://github.com/asty8926?tab=repositories)**.
 
 ### Notable Creations
-![Bookmark Dividers](https://github-readme-stats.vercel.app/api/pin/?username=asty8926&repo=Bookmark-Divider&theme=discord_old_blurple&bg_color=242938&hide_border=true)
-![TagScript VSCode](https://github-readme-stats.vercel.app/api/pin/?username=asty8926&repo=TagScript_VSCode&theme=discord_old_blurple&bg_color=242938&hide_border=true)
-
+[![Bookmark Dividers](https://github-readme-stats.vercel.app/api/pin/?username=asty8926&repo=Bookmark-Divider&theme=discord_old_blurple&bg_color=242938&hide_border=true&test)](https://github.com/asty8926/Bookmark-Divider#bookmark-divider-project)
+[![TagScript VSCode](https://github-readme-stats.vercel.app/api/pin/?username=asty8926&repo=TagScript_VSCode&theme=discord_old_blurple&bg_color=242938&hide_border=true)](https://github.com/asty8926/TagScript_VSCode#tagscript_vscode)
+[![Solo Bomb Party](https://github-readme-stats.vercel.app/api/pin/?username=asty8926&repo=Word-Guessing-Game&theme=discord_old_blurple&bg_color=242938&hide_border=true&test)](https://github.com/asty8926/Word-Guessing-Game#word-guessing-game-solo-bomb-party)
+[![Favicon Grabber](https://github-readme-stats.vercel.app/api/pin/?username=asty8926&repo=favicongrabber&theme=discord_old_blurple&bg_color=242938&hide_border=true&edited123)](https://github.com/asty8926/favicongrabber#favicon-grabber)
 
 
 ### Some technologies and tools I'm super happy about:

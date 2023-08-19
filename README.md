@@ -4,7 +4,7 @@
 
 I'm also very interested about tools that ease and improve life as a whole, whether for productivity, comfort, or speed.
 
-I either **hunt** such tools or **make them myself**. Some utility tools can be found in my **[Repositories Section](https://github.com/asty8926?tab=repositories)**.
+I either **hunt** or **make them myself**. Some utility tools can be found in **[My Repositories](https://github.com/asty8926?tab=repositories)**.
 
 ### Notable Creations
 [![Bookmark Dividers](https://github-readme-stats.vercel.app/api/pin/?username=asty8926&repo=Bookmark-Divider&theme=discord_old_blurple&bg_color=242938&hide_border=true&test)](https://github.com/asty8926/Bookmark-Divider#bookmark-divider-project)
@@ -22,7 +22,7 @@ That combined with [Whimsical](https://whimsical.com) for Wireframing and Brains
 
 ---
 ### My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=asty8926&show_icons=true&hide_rank=true&custom_title=My%20GitHub%20Stats&hide_title=true&theme=discord_old_blurple&bg_color=242938&hide_border=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=asty8926&show_icons=true&hide_rank=true&custom_title=My%20GitHub%20Stats&hide_title=true&theme=discord_old_blurple&bg_color=242938&hide_border=true&include_all_commits)
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asty8926&hide=typescript&layout=compact&theme=discord_old_blurple&bg_color=242938&hide_border=true)
 <!--![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)-->
 
